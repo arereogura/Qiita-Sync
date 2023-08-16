@@ -29,7 +29,7 @@ Create your own repository based on this template and push your markdown files, 
 7. README を書き換え、以下のバッジを挿入します(`<Your-ID>` と `<Your-Repository>` は置き換えてください)
 
 ```
-![Qiita Sync](https://github.com/<Your-ID>/<Your-Repository>/actions/workflows/qiita_sync_check.yml/badge.svg)
+![Qiita Sync](https://github.com/arereogura/Qiita-Sync/actions/workflows/qiita_sync_check.yml/badge.svg)
 ```
 
 Find more details in:
