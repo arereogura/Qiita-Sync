@@ -17,7 +17,7 @@ Create your own repository based on this template and push your markdown files, 
 7. Rewrite this README for your own with the badge below (Replace `<Your-ID>` and `<Your-Repository>`)
 
 ```
-![Qiita Sync](https://github.com/arereogura/Qiita-Sync/actions/workflows/qiita_sync_check.yml/badge.svg)
+![Qiita Sync](https://github.com/arereogura/Qiita_Sync/actions/workflows/qiita_sync_check.yml/badge.svg)
 ```
 
 ## 準備
@@ -31,7 +31,7 @@ Create your own repository based on this template and push your markdown files, 
 7. README を書き換え、以下のバッジを挿入します(`<Your-ID>` と `<Your-Repository>` は置き換えてください)
 
 ```
-![Qiita Sync](https://github.com/arereogura/Qiita-Sync/actions/workflows/qiita_sync_check.yml/badge.svg)
+![Qiita Sync](https://github.com/arereogura/Qiita_Sync/actions/workflows/qiita_sync_check.yml/badge.svg)
 ```
 
 Find more details in:
