@@ -1,3 +1,5 @@
+https://github.com/arereogura/Qiita-Sync/actions/workflows/qiita_sync_check.yml/badge.svg
+
 # Qiita-Sync Template
 
 Template repository to synchronize markdown files with [Qiita](https://qiita.com/) site.
